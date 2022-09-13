@@ -42,6 +42,16 @@ html,body {
     top:350px;
 }
 
+
+#resulttime{
+    display:block;
+    font-size: 35px;
+    color: white;
+    left: 930px;
+    position: absolute;
+    top:410px;
+}
+
 #inp{
     
     background-color: black;
